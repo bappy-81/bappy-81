@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 I’m **Bappy**, a student of the **CSE Department** at **BAUST (Bangladesh Army University of Science and Technology)**.
 
