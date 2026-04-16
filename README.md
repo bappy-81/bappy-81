@@ -1,36 +1,19 @@
-## Hello! 👋
-
-I’m **Bappy**, a student of the **CSE Department** at **BAUST (Bangladesh Army University of Science and Technology)**.
-
----
-
-### 🌱 About Me
-- 🎓 Currently studying Computer Science & Engineering  
-- 💻 Passionate about programming and technology  
-- 🚀 Always eager to learn new skills and explore new ideas  
+<!-- 🟣 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Bappy+👋;CSE+Student+at+BAUST;Web+Developer+%7C+Problem+Solver;Always+Learning+New+Tech+🚀" />
+</p>
 
 ---
 
-### 🔭 Interests
-- Web Development  
-- Software Development  
-- Problem Solving (C, C++, Python)  
-- Exploring new technologies  
+<!-- 🌈 Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=200&section=header&text=BAPPY%20-%20DEVELOPER&fontSize=40&fontColor=ffffff" />
+</p>
 
 ---
 
-### 🛠️ Skills
-- Programming: C, C++, Python (learning)  
-- Web: HTML, CSS (basic)  
-- Tools: Git, GitHub  
-
----
-
-### 📫 Contact
-- GitHub: https://github.com/bappy-81  
-- Add your email or Facebook/LinkedIn here  
-
----
-
-### ⚡ Fun Fact
-I enjoy learning by building small projects 🚀
+## 🌱 About Me
+```txt
+👨‍🎓 CSE Student @ BAUST  
+💻 Passionate about coding & building projects  
+🚀 Love learning by experimenting  
