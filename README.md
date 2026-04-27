@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm **MD. Lemon Islam Bappy**<br>A passionate **Computer Science & Engineering student** at **Bangladesh Army University of Science and Technology (BAUST)**. I enjoy learning new technologies, solving programming problems, and building creative software projects.<br><br>💻 Currently exploring:<br><br>* **C++ & Data Structures**<br>* **Database Management Systems**<br>* **Web Development**<br>* **Software Engineering**<br><br>🚀 Interested in creating smart systems, management software, and real-world problem-solving applications.<br><br>📚 Always learning, improving, and growing as a developer.<br><br>⚡ Goal: To become a skilled software engineer and contribute to innovative tech solutions.<br>
 
 
